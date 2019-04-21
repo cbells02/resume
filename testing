@@ -1,0 +1,44 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+    <h2><center>Charles Bell</center></h2>
+  <h2><center>612-323-0488| 707 Logan AVE N | bellcharles2018@gmail.com</center></h2>
+  <hr />
+  <br>
+    <p class="head"><b>Education</b></p>
+    <p><b>St. Olaf College,</b> Northfield, MN</p>
+    <p><b>Bachelor of Arts in Mathematics</b> Awarded May 2018</p>
+           <ul>Asian Studies Concentration</ul>
+    <b>Skills</b>
+    <ul>
+     <li>Data Analytics</li>
+    <li>Decision Making</li>
+    <li>Team Leadership</li>
+    <li>Python</li>
+    <li>Financial Systems</li>
+        <li>Microsoft Office</li>
+          <li>Communication</li>
+          <li>C++</li>
+            <li>Data Processing</li>
+            <li>Problem Solving</li>
+           <li>Detail Oriented</li>
+  </ul>
+  <p class="head"><b>Experiences</b></p>
+  <ul>
+      <b>Smiths Medical, Plymouth,MN</b>
+  </ul>
+        <li>    Analyze data to effectively calculate the rebate of various items</li>
+      <li>Communicate with vendors/dealers to receive and inform information on their rebate </li>
+        <li>Utilize the Oracle database to organize and process analytical </li>
+        <b>St Olaf College Northfield,MN</b>
+  </ul>
+        <li>    Specialized in classroom technology, and assisted in technology installation for campus use</li>
+      <li> Developed troubleshooting skills to effectively identify and solve various hardware </li>
+        <li>Analyzed various new hardware and communicated with team leads if new hardware should  </li>
+
+    </a>
+
+</div>
+<div class="right"></div>
+<div id="footer">
